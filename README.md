@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Python, unity, Coursera**
 
-- 👨‍💻 All of my projects are available at [under construction](under construction)
-
-- 📝 I regularly write articles on [under construction](under construction)
-
 - 💬 About me **Just a student studying Python and other subjects**
 
 - 📫 How to reach me **kt980055617@gmail.com**
 
-- 📄 Know about my experiences [under construction](under construction)
+- 👨‍💻 All of my projects are available at [under construction]
+
+- 📝 I regularly write articles on [under construction]
+
+- 📄 Know about my experiences [under construction]
 
 - ⚡ hobby **watching movies, gym, guitar, etc.**
 
