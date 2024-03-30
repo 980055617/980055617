@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tatsuru Kawanishi</h1>
-<h3 align="center">A B4 student of Nagoya University in Japan</h3>
+<h3 align="center">A M1 student of Nagoya University in Japan</h3>
 
 - 🌱 I’m currently learning **Python, unity, Coursera**
 
